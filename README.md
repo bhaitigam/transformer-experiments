@@ -19,9 +19,7 @@
 
 #  Description
 
-This repository provides modular implementations of modern Transformer architectures, attention mechanisms, and deep learning utilities. It includes reusable components for NLP, computer vision, and LLM research, helping developers build, train, and experiment with scalable AI models efficiently.
-
-The project is designed with clean architecture, flexibility, and research-focused experimentation in mind. It supports modern Transformer techniques including multi-head attention, positional embeddings, Flash Attention, RoPE, RMSNorm, Mixture of Experts (MoE), and efficient training workflows.
+This repository provide All transformer Architecture Using Function Code Testing 
 
 ---
 
