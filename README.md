@@ -1,4 +1,4 @@
-# 🚀 transformer-experiments
+#  transformer-experiments
 
 <div align="center">
 
@@ -17,7 +17,7 @@
 
 ---
 
-# 📖 Description
+#  Description
 
 This repository provides modular implementations of modern Transformer architectures, attention mechanisms, and deep learning utilities. It includes reusable components for NLP, computer vision, and LLM research, helping developers build, train, and experiment with scalable AI models efficiently.
 
@@ -25,22 +25,22 @@ The project is designed with clean architecture, flexibility, and research-focus
 
 ---
 
-# ✨ Features
+#  Features
 
-- ✅ Transformer architectures
-- ✅ Multi-head attention
-- ✅ Encoder-decoder models
-- ✅ GPT and BERT style models
-- ✅ Vision Transformers (ViT)
-- ✅ Flash Attention support
-- ✅ RoPE and ALiBi embeddings
-- ✅ PyTorch-based implementation
-- ✅ Modular and scalable structure
-- ✅ Research and production ready
+-  Transformer architectures
+-  Multi-head attention
+-  Encoder-decoder models
+-  GPT and BERT style models
+-  Vision Transformers (ViT)
+-  Flash Attention support
+-  RoPE and ALiBi embeddings
+-  PyTorch-based implementation
+-  Modular and scalable structure
+-  Research and production ready
 
 ---
 
-# 🏗️ Repository Structure
+#  Repository Structure
 
 ```bash
 transformer-experiments/
