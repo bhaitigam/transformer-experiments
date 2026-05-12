@@ -9,7 +9,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.x-red?style=for-the-badge)
 
-<img src="transformer-experiments.png" alt="Transformer Experiments Banner" width="100%">
+<img src="images/transformer-experiments.png" alt="Transformer Experiments Banner" width="100%">
 
 ### Modern Transformer Architectures, Attention Mechanisms, and Deep Learning Utilities
 
