@@ -27,17 +27,7 @@ The project is designed with clean architecture, flexibility, and research-focus
 
 #  Features
 
--  Transformer architectures
--  Multi-head attention
--  Encoder-decoder models
--  GPT and BERT style models
--  Vision Transformers (ViT)
--  Flash Attention support
--  RoPE and ALiBi embeddings
--  PyTorch-based implementation
--  Modular and scalable structure
--  Research and production ready
-
+- Pure Raw Code Transformer Architecture Functions
 ---
 
 #  Repository Structure
